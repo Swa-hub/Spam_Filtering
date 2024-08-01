@@ -3,7 +3,7 @@
 This project aims to classify emails as spam or ham (non-spam) using Natural Language Processing (NLP) techniques and machine learning algorithms. The goal is to build a robust model that can accurately identify spam emails to improve email filtering systems.
 
 ##Table of contents
--Introduction(#introduction)
+-Introduction
 -Dataset(#dataset)
 -Data Preprocessing(#data-preprocessing)
 -Model Architecture(#model-architecutre)
